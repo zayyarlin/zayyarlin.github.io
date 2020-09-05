@@ -9,7 +9,7 @@ author: Zay Yar Lin
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projects: "projects.html"
+  Projects: "projects"
   About Me: "aboutme"
 
 # --- Logo --- #

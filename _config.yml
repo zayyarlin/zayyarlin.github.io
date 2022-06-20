@@ -1,0 +1,11 @@
+# basic options
+title: Zay Yar's Personal Website
+author: Zay Yar Lin
+email: zayyarlin2011@gmail.com
+description: Personal Website
+twitter_username: zayyarlin
+github_username: zayyarlin
+
+# build settings
+markdown: kramdown
+theme: minima
